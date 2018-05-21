@@ -1,8 +1,8 @@
 	<title>Desarrollos web Frontend  Backend  Luis Desarrollador full stack venezolano residenciado en lima peru con nacionalidad española, blacksk81@gmail.com tlf: +51921966985</title>
 	<meta charset="UTF-8">
-	<meta name="description" content="Desarrollos web Frontend  Backend  Luis Desarrollador full stack venezolano residenciado en lima, blacksk81@gmail.com tlf: +51921966985" />
-    <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
-    <meta name="author" content="Desarrollo web Luis Bernal" />
+	<meta name="description" content="Desarrollador WeB Frontend, Diseños profesional de paginas web UX/IU tiendas en lineas y adminitracion de redes sociales, SE HACE A TU MEDIDA. +51-921966985 / blacksk81@gmail.com " />
+    <meta name="keywords" content="Paginas web, tiendas en lineas, creacion de marcas, diseños, responsive web site." />
+    <meta name="author" content="Desarrollador Frontend Luis Bernal" />
     <link rel=”canonical” href=”https://lbernal.com.ve”/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Favicon -->   
