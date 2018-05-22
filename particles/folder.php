@@ -17,6 +17,11 @@
 							<h2>+ Ver Proyecto</h2>
 						</div>						
 					</a>
+					<div class="portfolio-meta">
+						<h2>Diseño web desde Cero</h2>
+						<p>Usano framework como materialize y jquery.</p>
+						<small>Peru 2018</small>
+					</div>
 				</div>
 				<div class="mix col-lg-6 col-md-6 digital p-5 ">
 					<a href="img/portfolio/web2.1.png" class="portfolio-item set-bg" data-setbg="img/portfolio/web2.png">
@@ -24,6 +29,11 @@
 							<h2>+ Ver Proyecto</h2>
 						</div>						
 					</a>
+					<div class="portfolio-meta">
+						<h2>Tienda virtual de mascotas </h2>
+						<p>Esta tienda viertual fue creada con estilo desde cero con CMS de la agencia.</p>
+						<small>Peru 2018</small>
+					</div>
 				</div>
 				<div class="mix col-lg-4 col-md-6 web p-5 ">
 					<a href="img/portfolio/web3.png" class="portfolio-item set-bg" data-setbg="img/portfolio/web3.png">
@@ -31,6 +41,11 @@
 							<h2>+ Ver Proyecto</h2>
 						</div>						
 					</a>
+					<div class="portfolio-meta">
+						<h2>Agencia Turistica</h2>
+						<p>Agencia de viajes y turismo de aruba, realizada en Wordpress desde un plantilla paga</p>
+						<small>Aruba 2017</small>
+					</div>
 				</div>
 				<div class="mix col-lg-4 col-md-6 digital p-5">
 					<a href="img/portfolio/web4.1.png" class="portfolio-item set-bg" data-setbg="img/portfolio/web4.png">
@@ -38,6 +53,11 @@
 							<h2>+ Ver Proyecto</h2>
 						</div>						
 					</a>
+					<div class="portfolio-meta">
+						<h2>Comdomios</h2>
+						<p>Conjunto residencial palmcondons en la hermosa isla de Aruba, realizado con Wordpress</p>
+						<small>Aruba 2018</small>
+					</div>
 				</div>
 				<div class="mix col-lg-4 col-md-6 rened p-5">
 					<a href="img/portfolio/web5.5.png" class="portfolio-item set-bg" data-setbg="img/portfolio/web5.png">
@@ -45,6 +65,11 @@
 							<h2>+ Ver Proyecto</h2>
 						</div>						
 					</a>
+					<div class="portfolio-meta">
+						<h2>El Negro - Frutos secos</h2>
+						<p>el negro frutos secos es un pequeño proyecto de emprendimiento del peru, realizado bajo un framework frontend</p>
+						<small>Peru 2018</small>
+					</div>
 				</div>
 				<div class="mix col-lg-12 col-md-6 brand p-5">
 					<a href="img/portfolio/web6.png" class="portfolio-item set-bg" data-setbg="img/portfolio/web6.png">
@@ -52,6 +77,11 @@
 							<h2>+ Ver Proyecto</h2>
 						</div>						
 					</a>
+					<div class="portfolio-meta">
+						<h2>Fermin's BBQ</h2>
+						<p>Gran restaurante de parrillada ubicado en la isla de aruba, proyecto tambien desarrollados en el CMS de Wordpress.</p>
+						<small>Aruba 2017</small>
+					</div>
 				</div>
 				<div class="mix col-lg-6 col-md-6 rened p-5">
 					<a href="img/portfolio/web7.1.png" class="portfolio-item set-bg" data-setbg="img/portfolio/web7.png">
@@ -59,6 +89,11 @@
 							<h2>+ Ver Proyecto</h2>
 						</div>						
 					</a>
+					<div class="portfolio-meta">
+						<h2>Fitnes Life</h2>
+						<p>Pequeño proyecto de empredimiento personal de la mano del ejercicio y el bienestar, realizado tambien en Wordpress con una plantilla de paga</p>
+						<small>Aruba 2017</small>
+					</div>
 				</div>
 				<div class="mix col-lg-6 col-md-6 brand p-5">
 					<a href="img/portfolio/web8.1.png" class="portfolio-item set-bg" data-setbg="img/portfolio/web8.png">
@@ -66,6 +101,11 @@
 							<h2>+ Ver Proyecto</h2>
 						</div>						
 					</a>
+					<div class="portfolio-meta">
+						<h2>South Beach Aruba</h2>
+						<p>De la vida nocturna de Aruba y de las mejores disco de la isla muestro Southbeararuba.com.</p>
+						<small>Aruba 2017</small>
+					</div>
 				</div>
 			</div>
 		</div>
