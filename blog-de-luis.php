@@ -41,19 +41,33 @@
 					</div>
 				</div>
 				<!-- blog item -->
-				<!-- <div class="col-md-6">
+				<div class="col-md-6">
 					<div class="blog-item">
 						<figure class="thumb">
-							<img src="img/blog/2.jpg" alt="">
+							<img src="imgpost/designcanada.jpg" alt="">
 						</figure>
 						<article class="blog-content">
-							<h2>Top 10 best digital assets in January</h2>
-							<div class="blog-meta">January 29, 2018</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet pharetra nisl. Vestibulum sollicitudin leo non purus vestibulum placerat. Curabitur ac erat sollicitudin, blandit quam vitae.</p>
-							<a href="" class="read-more">Read More</a>
+							<h2>Design Canada gana el sitio del mes de abril de 2018</h2>
+							<div class="blog-meta">24 de Mayo del 2018 / Luis Bernal</div>
+							<p>Es alucinante el tema de esta paginaweb canadience, por su simplismmo sus grandes letras y sus efectos cordinados, una gran experiencia de usuarios y elegancia todo al mismo tiempo.</p>
+							<a href="post/desing-canada-gana-premio.php" class="read-more">Leer Mas...</a>
 						</article>
 					</div>
-				</div> -->				
+				</div>	
+				<!-- blog item -->
+				<div class="col-md-6">
+					<div class="blog-item">
+						<figure class="thumb">
+							<img src="imgpost/fonts.png" alt="">
+						</figure>
+						<article class="blog-content">
+							<h2>20 mejores fuentes web de Google</h2>
+							<div class="blog-meta">28 de Mayo del 2018 / Luis Bernal</div>
+							<p>Estamos experimentando un momento de gran creatividad en el uso de la tipografía web.</p>
+							<a href="post/20-fuentes-de-google-impresionantes-para-web.php" class="read-more">Leer Mas...</a>
+						</article>
+					</div>
+				</div>		
 			</div>
 		</div>
 	</div>
