@@ -1,6 +1,6 @@
 	<title>Desarrollos web Frontend  Backend  Luis Desarrollador full stack venezolano residenciado en lima peru con nacionalidad española, blacksk81@gmail.com tlf: +51921966985</title>
 	<meta charset="UTF-8">
-	<meta name="description" content="Desarrollador WeB Frontend, Diseños profesional de paginas web UX/IU tiendas en lineas y adminitracion de redes sociales, SE HACE A TU MEDIDA. +51-921966985 / blacksk81@gmail.com " />
+	<meta name="description" content="Desarrollador WeB Frontend, Diseños profesional de paginas web UX/IU tiendas en lineas. +51-921966985 / blacksk81@gmail.com " />
     <meta name="keywords" content="Paginas web, tiendas en lineas, creacion de marcas, diseños, responsive web site." />
     <meta name="author" content="Desarrollador Frontend Luis Bernal" />
     <link rel=”canonical” href=”https://lbernal.com.ve”/>
@@ -9,24 +9,25 @@
 	<!-- Favicon -->   
 	<link href="img/favicon.ico" rel="shortcut icon"/>
 
-	 <!-- twitter card starts from here, if you don't need remove this section -->
-    <meta name="twitter:card" content="summary" />
+	<!-- La tarjeta Twitter comienza desde aquí, si no necesita eliminar esta sección -->
+    <!-- <meta name="twitter:card" content="summary" /> -->
     <meta name="twitter:site" content="@yourtwitterusername" />
-    <meta name="twitter:creator" content="@yourtwitterusername" />
-    <meta name="twitter:url" content="http://yourdomain.com" />
-    <meta name="twitter:title" content="Your home page title, max 140 char" /> <!-- maximum 140 char -->
-    <meta name="twitter:description" content="Your site description, maximum 140 char " /> <!-- maximum 140 char -->
-    <meta name="twitter:image" content="assets/img/twittercardimg/twittercard-280-150.jpg" />  <!-- when you post this page url in twitter , this image will be shown -->
+    <meta name="twitter:creator" content="@luisbernal821" />
+    <meta name="twitter:url" content="http://lbernal.com.ve/" />
+    <meta name="twitter:title" content="Se Hace a Tu Medida." /> <!-- maximum 140 char -->
+    <meta name="twitter:description" content="Desarrollador WeB Frontend, Diseños profesional de paginas web UX/IU tiendas en lineas. +51-921966985 / blacksk81@gmail.com " /> <!-- maximum 140 char -->
+    <meta name="twitter:image" content="../img/luis-alberto-bernal.png" />  <!--cuando publiques esta url de la página en twitter, se mostrará esta imagen-->
     <!-- twitter card ends from here -->
 
-    <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
-    <meta property="og:title" content="Desarrollo de pagìnas Webs" />
+    <!-- facebook abrir gráfico comienza desde aquí, si no es necesario, entonces eliminar gráfico abierto relacio -->
+    <meta property="og:title" content="Se Hace a Tu Medida." /><!-- maximum 140 char -->
     <meta property="og:url" content="http://lbernal.com.ve/" />
-    <meta property="og:locale" content="en_ES" />
+    <meta property="og:description" content="Desarrollador WeB Frontend, Diseños profesional de paginas web UX/IU tiendas en lineas. +51-921966985 / blacksk81@gmail.com "><!-- maximum 140 char -->
+    <meta property="og:locale" content="en_PE" />
     <meta property="og:site_name" content="freelance frontend Developer and webmaster" />
-    <!--meta property="fb:admins" content="" /-->  <!-- use this if you have  -->
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="../img/luis-alberto-bernal.png" /> <!-- when you post this page url in facebook , this image will be shown -->
+    <meta property="og:image" content="../img/luis-alberto-bernal.png" /> <!-- cuando publiques esta url de la página en Facebook, se mostrará esta imagen -->
+     <!--meta property="fb:admins" content="" /-->  <!-- use this if you have  -->
     <!-- facebook open graph ends from here -->
 
 	<!-- Google Fonts -->
