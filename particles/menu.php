@@ -15,6 +15,9 @@
 							<li><a href="luis-alberto-freelancer.php">YO!</a></li>
 							<li><a href="blog-de-luis.php">Blog</a></li>
 							<li><a href="contacta-con-luis.php">Hablame</a></li>
+							<li><a href="https://api.whatsapp.com/send?phone=0051921966985&text=Hola%20luis%20quiero%20saber%20de%20tus%20servicios" target="new" style="color: #028e82;">
+								<i class="fab fa-whatsapp fa-lg"></i></a>
+							</li>
 						</ul>
 					</nav>
 				</div>

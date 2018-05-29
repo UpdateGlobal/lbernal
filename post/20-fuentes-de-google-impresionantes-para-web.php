@@ -39,6 +39,10 @@
 	<link rel="stylesheet" href="../css/font-awesome.min.css"/>
 	<link rel="stylesheet" href="../css/magnific-popup.css"/>
 	<link rel="stylesheet" href="../css/style.css"/>
+	
+	<!-- Go to www.addthis.com/dashboard to customize your tools --> 
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b0d762017e17a4d"></script>
+
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-93517495-2"></script>
 	<script>
@@ -48,6 +52,15 @@
 
 	  gtag('config', 'UA-93517495-2');
 	</script>
+
+	<!--googleAdsense-->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-6875936259776097",
+        enable_page_level_ads: true
+      });
+    </script>
 
 
 </head>

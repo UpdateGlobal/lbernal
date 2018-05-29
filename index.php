@@ -6,7 +6,7 @@
 ?>
 </head>
 <body>
-	<?php
+<?php
 	include 'particles/preload.php';
 	include 'particles/menu.php';
 ?>
