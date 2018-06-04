@@ -20,7 +20,7 @@
     <!-- twitter card ends from here -->
 
     <!-- facebook abrir gráfico comienza desde aquí, si no es necesario, entonces eliminar gráfico abierto relacio -->
-    <meta property="og:title" content="Se Hace a Tu Medida." /><!-- maximum 140 char -->
+    <meta property="og:title" content="Pagínas Web y Tiendas Online A Tu Medida." /><!-- maximum 140 char -->
     <meta property="og:url" content="http://lbernal.com.ve/" />
     <meta property="og:description" content="Desarrollador WeB Frontend, Diseños profesional de paginas web UX/IU tiendas en lineas. +51-921966985 / blacksk81@gmail.com "><!-- maximum 140 char -->
     <meta property="og:locale" content="en_PE" />
@@ -42,24 +42,4 @@
 	<link rel="stylesheet" href="css/magnific-popup.css"/>
 	<link rel="stylesheet" href="css/style.css"/>
 
-    <!-- Go to www.addthis.com/dashboard to customize your tools --> 
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b0d762017e17a4d"></script>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93517495-2"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-93517495-2');
-    </script>
-
-    <!--googleAdsense-->
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-6875936259776097",
-        enable_page_level_ads: true
-      });
-    </script>
+  

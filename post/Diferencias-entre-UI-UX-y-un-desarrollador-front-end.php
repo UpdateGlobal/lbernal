@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Tu web con experiencia de usuario (UX)</title>
+
+	<title>Design Canada gana el sitio del mes de abril de 2018</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Desarrollador WeB Frontend, Diseños profesional de paginas web UX/IU tiendas en lineas y adminitracion de redes sociales, SE HACE A TU MEDIDA. +51-921966985 / blacksk81@gmail.com " />
     <meta name="keywords" content="Paginas web, tiendas en lineas, creacion de marcas, diseños, responsive web site." />
@@ -39,7 +40,7 @@
     <!--Icons Fontsawesome-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
-	<!-- Stylesheets -->
+		<!-- Stylesheets -->
 	<link rel="stylesheet" href="../css/bootstrap.min.css"/>
 	<link rel="stylesheet" href="../css/font-awesome.min.css"/>
 	<link rel="stylesheet" href="../css/magnific-popup.css"/>
@@ -65,7 +66,8 @@
         google_ad_client: "ca-pub-6875936259776097",
         enable_page_level_ads: true
       });
-    </script>
+  </script>
+    
 
 </head>
 <body>
@@ -93,7 +95,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<h1 class="section-title line">Tu web con experiencia de usuario (UX)</h1>
+					<h1 class="section-title line">Diferencias entre UI/UX y un desarrollador front-end</h1>
 				</div>
 			</div>
 		</div>
@@ -110,21 +112,24 @@
 					<div class="blog-item">
 						<figure class="thumb" style="text-align: center;">
 							<figure class="pic-frame">
-							<img src="../imgpost/1.png"  style="width: 100%; height: auto;">
+							<img src="../imgpost/fronteuxix.png"  style="width: 100%; height: auto;">
 							</figure>
 						</figure>
 						<article class="blog-content">
-							<h2>Las tendencias web tambien van de la mano </h2>
-							<div class="blog-meta">22 de Mayo del 2018 / Luis Bernal</div>
-							<p>Hoy les comparto lo esencial que todo proyecto web debe tener como pilar y que en Update Global Marketing siempre tenemos en cuenta: User experience design o Diseño considerando la experiencia de tu usuario, la User Experience.(UX)<br>
-							¿Porque es importante tener en cuenta la UX cuando diseñamos una web? ¿Es bueno elegir una plantilla prediseñada (template)?Diseñar un website o página web (sitio web término correcto, insisto) contrariamente a lo que algunos piensan, no es una tarea comúnmente fácil. Hoy, con ilimitadas aplicaciones Do it Yourself como wordpress, wix, jimdo, entre otras, el tema puede tornarse confuso. Sobretodo si tenemos mala asesoría en frente, si lo que buscas es economizar en todo y hacer las cosas de manera improvisada, rápido y sin la adecuada planificación.<br>
-							Una web es un proyecto importante en tu empresa y como tal debe cumplir un objetivo: informar, vender, guiar, contactar. En una world wide web donde tenemos millones de paginas y sitios, la seria pregunta viene a ser: ¿cómo diferenciar mi web del resto? ¿Cómo logro que la gente no se aburra y cierre mi pagina?<br>
-							Considerar escenarios en los que una persona se sienta frente al computador o navega en su smartphone con una motivación hacia encontrar algún contenido, producto o servicio en una web, garantiza el cumplimiento de una de los primeros objetivos que todo proyecto web debe cumplir: Guiar al usuario (persona) hacia lo que necesita. Para eso debemos, con un estudio o conocimiento del mercado o del usuario, de sus comportamientos, sus patrones, los momentos, determinar los flujos de navegación más adecuados para que las personas encuentren lo que buscan o permanezcan el mayor tiempo posible en tu web<br>
-							Me encuentro a diario con proyectos que intentan copiar o asemejar aspectos de otros diseños, lo cual no garantiza el éxito de tu web. Términos como: "quiero una web como esta" o ¿has visto la web de tal empresa? ¿quiero una web igualita? (oh vaya diferenciación), entre otros. Esta es una confusión ocasionada en la disyuntiva entre la estética del diseño y tener en cuenta la experiencia de tu usuario.<br>
-							Tu sitio web debe tener el equilibrio entre lo estético (a tu gusto) y lo que el usuario pide (user experience), no solo se trata de lo que le gusta a la gerencia. Aquí el usuario manda, de lo contrario, no te sorprendas que en la analitica el ratio de permanencia, la tasa de rebote y la navegabilidad tengan valores que no esperabas. Tu web debe ser unica, reflejar el servicio que deseas brindar.<br>
-							Todos somos usuarios de alguna web y si no encontramos algo, simplemente cerramos la pagina y volvemos al buscador. En ese proceso habrás perdido quizás una buena venta que pudo ser prevista desde el principio del diseño.<br>
-							Un template o plantilla web, puede que no sea mala alternativa en lo económico y estético. Adquirimos una pensando que aqui se mostrará bien la información. Pero ¿guiará a mis usuarios hacia lo que buscan? la pregunta es difícil de responder por una sencilla razón: una template fue diseñada con un objetivo que necesariamente no fue el tuyo, para un usuario que quizás tampoco es como el tuyo. Sencillo pero complejo. Estudia a tu usuario, conócelo y créale un ambiente adecuado para que permanezca el mayor tiempo posible en tu web.<br>
-							En un futuro Post conversaremos respecto al adecuado flujo de información que debe tener un website antes de llevarlo al diseño.</p>
+							<h2>diseñador UI/UX y desarrollador front-end se difumina y se vuelve abstracta.</h2>
+							<div class="blog-meta">30 de Mayo del 2018 / Luis Bernal</div>
+							<p>Muchas veces vemos ofertas de trabajo en las que la barrera entre diseñador UI/UX y desarrollador front-end se difumina y se vuelve abstracta. Me ha parecido curioso obtener la perspectiva de este tema de una compañera que trabaja en mi departamento UX. Ella es la única de nosotros que proviene de un grado en ingeniería y tiene un perfil mucho más técnico:<br>
+							“Para saber la diferencia entre un desarrollador front-end y un diseñador UI/Ux lo primero que tenemos que pensar es la diferencia entre implementación y diseño.<br>
+
+							Los diseñadores de UX suelen ser personas cuyos estudios se centran en el diseño gráfico y están mucho más enfocados en el lado humano del proceso de diseño: tienden a investigar y hacer preguntas que constituirán la base para idear conceptos / ideas de diseño.<br>
+
+							Sin embargo un desarrollador front-end convierte esta investigación y preguntas en algo real , principalmente con código.<br>
+
+							El diseñador UI/UX y el desarrollador de front-end trabajan cercanamente pero es el desarrollador el que sigue las instrucciones y los planes establecidos por un diseñador UX/UI, aunque algunas veces el desarrollador front-end puede encontrar soluciones a problemas del diseñador.<br>
+
+							Creo que el diseñador UX/UI destaca por tener unas prioridades claras en su mente como son por ejemplo una interfaz funcional o un diseño atractivo para el cliente. Pero es el desarrollador el que posee las habilidades para programar, es decir tiene las herramientas y las técnicas para llevar a cabo el diseño.”<br>
+
+							</p>
 						</article>
 						<nav class="main-menu">
 						<p>Palabras Clave</p>
@@ -132,7 +137,8 @@
 							<li>Diseño web</li>
 							<li>Usuarios </li>
 							<li>frontend</li>
-							<li>Desarrollo</li>
+							<li>uX</li>
+							<li>Iu</li>
 						</ul>
 					</nav>
 					</div>
