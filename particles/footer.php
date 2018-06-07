@@ -2,7 +2,7 @@
 	<footer class="footer-section text-center">
 		<div class="container">
 			<h2 class="section-title mb-5">Vamos a trabajar juntos</h2>
-			<a href="contact.php" class="site-btn">Contactame</a>
+			<a href="contacta-con-luis.php" class="site-btn">Contactame</a>
 			<div class="social-links" align="center">
 				<a href="https://www.linkedin.com/in/luis-alberto-bernal-fuentes-6375143b/"><span class="fa fa-linkedin"></span></a>
 				<a href="https://www.instagram.com/luisbernal2/"><span class="fa fa-instagram"></span></a>
