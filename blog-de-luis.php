@@ -50,6 +50,22 @@
 	<div class="page-section">
 		<div class="container">
 			<div class="row mb-5">
+
+				<div class="col-md-6">
+					<div class="blog-item">
+						<figure class="thumb">
+							<img src="imgpost/fifa2018.png" alt="">
+						</figure>
+						<article class="blog-content">
+							<h2>La tecnología se apodera del Mundial Rusia 2018</h2>
+							<div class="blog-meta">26 de Junio del 2018 / Luis Bernal</div>
+							<p>¿Qué nuevas herramientas se incorporarán en esta Copa del Mundo?</p>
+							<a href="post/tecnologia-en-el-mundial-rusia-2018.php" class="read-more"  target="new">Leer Mas...</a>
+						</article>
+					</div>
+				</div>
+				<!-- blog item -->
+
 				<div class="col-md-6">
 					<div class="blog-item">
 						<figure class="thumb">
